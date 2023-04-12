@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lab6CalculatorRemix</string>
+
+    <string name="stringButton">CALCULATE</string>
+
+    <string name="numberOfPeopleTextView">Number of people:</string>
+    <string name="totalBillTextView">Total Bill:</string>
+    <string name="tipPercentageTextView">Tip Percentage:</string>
+
+    <string name="invalidInput">Invalid Input</string>
+
+    <string name="fahrenheitText">Fahrenheit: </string>
+    <string name="celsiusText">Celsius: </string>
+
+    <string name="convertButton">CONVERT</string>
+
+    <string name="mileText">Miles: </string>
+    <string name="kilometerText">Kilometers: </string>
+
+
+</resources>
